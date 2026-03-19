@@ -7,6 +7,8 @@ Runs on an **STM32F4 Nucleo** (F401RE/F411RE class) with **FreeRTOS**, an **SSD1
 
 > Core concepts: **multitasking**, **message queues**, **software timers**, **semaphores**, **GPIO interrupts**, and **SPI display I/O**.
 
+The main firmware logic is located in [`main.c`](./Core/Src/main.c).
+
 ---
 
 ## Features
