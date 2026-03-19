@@ -9,6 +9,9 @@ Runs on an **STM32F4 Nucleo** (F401RE/F411RE class) with **FreeRTOS**, an **SSD1
 
 The main firmware logic is located in [`main.c`](Embedded-Software-Engineer-SPACEIUM/Core/Src/main.c).
 
+## 📸 Media
+Watch the video demonstration of the application, titled "Whack‑A‑Mole on STM32 (FreeRTOS)" [here](https://www.youtube.com/watch?v=1Qv2hCJcYMA).
+
 ---
 
 ## Features
@@ -89,8 +92,6 @@ The main firmware logic is located in [`main.c`](Embedded-Software-Engineer-SPAC
 - Include HAL + FreeRTOS headers, link `ssd1331.c`, and compile/flash as usual.
 
 ---
-
-## 📸 Media
 
 📬 Contact
 If you have any questions:
