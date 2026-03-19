@@ -31,7 +31,7 @@ The main firmware logic is located in [`main.c`](Embedded-Software-Engineer-SPAC
   - Correct → score **+1**
   - Wrong → score **–1** (min 0)
 - Each turn **gets faster**.
-- Game lasts **~26 s**, then resets HUD and score.
+- Game lasts **~26 s**.
 
 ---
 
