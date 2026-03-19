@@ -79,20 +79,6 @@ Watch the video demonstration of the application, titled "Whack‑A‑Mole on ST
 
 ---
 
-## Build & Flash
-
-**Option A — STM32CubeIDE (fastest)**
-1. New STM32CubeIDE project for your board (F411RE).
-2. Enable **FreeRTOS (CMSIS‑RTOS v2)**, **SPI2**, **USART2**, needed **GPIO/EXTI**.
-3. Add the **SSD1331 driver** (`ssd1331.h/.c`).
-4. Replace generated `Core/Src/main.c` with the one in this repo.
-5. Build → Flash → Open a serial terminal at **115200**.
-
-**Option B — Custom HAL/Make setup**
-- Include HAL + FreeRTOS headers, link `ssd1331.c`, and compile/flash as usual.
-
----
-
 📬 Contact
 If you have any questions:
 📧 badillouribeguillermoca@gmail.com
