@@ -90,3 +90,9 @@ Runs on an **STM32F4 Nucleo** (F401RE/F411RE class) with **FreeRTOS**, an **SSD1
 
 ## 📸 Media
 
+📬 Contact
+If you have any questions:
+📧 badillouribeguillermoca@gmail.com
+
+📄 License
+This repository is licensed under the MIT License.
